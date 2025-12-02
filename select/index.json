@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "KITAKU BEATS",
+  "base_artist": "frederic",
+  "createdAt": "2025-12-02T19:23:15.188401Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "KITAKU BEATS",
+      "artist": "frederic",
+      "has_synced": true,
+      "path": "select/01_KITAKU_BEATS_frederic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KITAKU BEATS",
+      "artist": "フレデリック",
+      "has_synced": false,
+      "path": "select/pl_01_KITAKU_BEATS_フレデリック.txt"
+    }
+  ]
+}
